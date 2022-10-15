@@ -4,7 +4,11 @@
 - 📫 Reach me via Mail, Signal, WhatsApp, Twitter, Telegram, Skype, Homepage, .... choose whatever fits best to you
 
 Check out my projects:
+
 LeDi: https://github.com/Hunv/LeDi
+
 can2mqtt: https://github.com/Hunv/can2mqtt
+
 Fahrplanalarm: https://reukauff.eu/fahrplanalarm-app/
+
 ... and some smaller things you can find in my Github profile
